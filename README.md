@@ -1,9 +1,9 @@
-# All-About-Me
+# All-About-Me!
 Data Science &amp; Cybersecurity enthusiast | Python, C++, SQL, R | Building ML models, dashboards, and automated solutions to turn data into insights.”
 
 ---
 
-# Hi there 🥰, I'm Teni !
+# Hi there, I'm Teni 🥰!
 
 Welcome to my GitHub! I’m a **Data Science graduate at the University of North Texas**, I graduated in **May 2025**, I have a passion for **data, programming, and cybersecurity**. I enjoy transforming raw data into actionable insights, developing scalable solutions, and applying machine learning to address real-world problems.
 
